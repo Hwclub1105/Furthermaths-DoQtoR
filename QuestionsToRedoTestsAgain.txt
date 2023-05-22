@@ -5,7 +5,7 @@ Order, OneNoteTest, PaperTest, Chapters, Percentage, Wrong_Questions
 4, Series, Series Test, [FC3], 100, []
 5, Roots of Polynomials Test, Roots of Polynomials Test, [FC4], 89, []
 6, 1st 4 Chapters Test, 1st 4 CHAPTERS TEST, [FC1,FC2,FC3,FC4], 97, []
-7, D1 Chapters 1-5, D1 test, [D1,D2,D3,D4,D5], 92, [Q6,Q7,Q8,Q10]
+7, D1 Chapters 1-5, D1 test, [D1,D2,D3,D4,D5], 92, []
 8, Matrices & Induction, Matrices & Proof by Induction, [FC6,FC8], 100, []
 9, Mid-Year Core 2023, Yr12 Core Mid-Year 2023, [FC1,FC2,FC3,FC4,FC6,FC8], 90, []
 10, Mid-Year Decision 2023, Decision: Mid-year 2023, [D1,D2,D3,D4,D5], 90, []
